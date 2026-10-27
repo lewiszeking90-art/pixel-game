@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
-const supabaseUrl = 'COLLE_ICI_TON_URL';
-const supabaseKey = 'COLLE_ICI_TA_CLE';
+const supabaseUrl = 'bckrevvqtyeotzndmmvn';
+const supabaseKey = 'sb_publishable_Ly2SrPV_6JdsK1hYzr1gGQ_2rJ2eypw';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
